@@ -2,8 +2,8 @@
 
 This repository contains examples for the usage of [Selenoid](https://aerokube.com/selenoid/latest/).
 
-### Start containers
-docker-compose -f docker-compose.yml up -d
+## Usage
+    ./startup.sh
 
 ### Selenoid
 http://localhost:4444/
